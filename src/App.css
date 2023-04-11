@@ -1,0 +1,32 @@
+.logo {
+  padding-top: 15%;
+}
+.header {
+  background-color: turquoise;
+}
+nav {
+ padding: 5px;
+}
+button {
+  border: none;
+  background-color: transparent;
+}
+.navLeft {
+  float: right;
+  display: flex;
+  padding-top: 5px;
+}
+.navLeft ul {
+  list-style: none;
+}
+.activities {
+  margin: 4em auto 2em;
+}
+.footer {
+  margin: 10px auto 0;
+  background-color: turquoise;
+  color: white;
+}
+.footer h3 {
+  font-weight: 700;
+}
